@@ -1,7 +1,8 @@
 
-# 🚀  - Análise de Risco de Crédito
-
-## 📊 Aplicação Streamlit Interativa
+# 🚀  - Análise de Risco de Crédito  
+[🔗 Acesse a aplicação online](https://case-credito.streamlit.app/)  
+  
+## 📊 Aplicação Streamlit Interativa  
 
 Esta aplicação apresenta de forma interativa e dinâmica os resultados do modelo de análise de risco de crédito, utilizando LightGBM com SMOTE.
 
